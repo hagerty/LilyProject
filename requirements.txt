@@ -1,2 +1,2 @@
-tensorflow==2.9
+tensorflow==2.10
 
